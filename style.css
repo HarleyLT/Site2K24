@@ -1,0 +1,36 @@
+body, ul, li, p{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+body{
+    background-color: lightgray;
+    font-size: 12;
+    font-family: arial;
+    color: black;
+}
+
+h1{
+    font-size: 30pt;
+}
+
+h2{
+    font-size: 20pt;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+.bem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ima{
+    height: 200px;
+    width: 250px;
+    padding: 15px;
+}
